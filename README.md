@@ -18,7 +18,7 @@ Although LLPs do possess a distinct signature in the form of the energy deposist
  - Abstract published in Caltech's SURF [Abstract Book](https://sfp.caltech.edu/documents/29442/2024_Abstract_Book.pdf)
 
 <p align="center">
- <img src="https://github.com/kattx711/Run3-HCAL-LLP-Analysis/blob/main/images/signalslicesbigger350.png?raw=1" width="500" height="500" />
+ <img src="https://github.com/kattx711/Run3-HCAL-LLP-Analysis/blob/main/images/signalslicesbigger350.png?raw=1" width="700" height="700" />
  </p>
 
  ### Source Code:
