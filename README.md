@@ -6,9 +6,11 @@ Although LLPs do possess a distinct signature in the form of the energy deposist
 
 
 <p align="center">
-  <img src="https://github.com/kattx711/Run3-HCAL-LLP-Analysis/blob/main/IMG_B4A88A106775-1.jpeg?raw=1" width="150" height="150" />
-  <img src="https://github.com/kattx711/Run3-HCAL-LLP-Analysis/blob/main/promptJet.png?raw=1" width="150" height="150" />
+  <img src="https://github.com/kattx711/Run3-HCAL-LLP-Analysis/blob/main/images/IMG_B4A88A106775-1.jpeg?raw=1" width="150" height="150" />
+  <img src="https://github.com/kattx711/Run3-HCAL-LLP-Analysis/blob/main/images/promptJet.png?raw=1" width="150" height="150" />
 </p>
+
+<img src="https://github.com/kattx711/Run3-HCAL-LLP-Analysis/blob/main/images/singleslicesbigger350.png?raw=1" width="150" height="150" />
 
 ### Key Links:
  - [Interim reports](https://github.com/kattx711/Run3-HCAL-LLP-Analysis/blob/main/SURF_Interim_Report_2025.pdf) and [final research papers](https://github.com/kattx711/Run3-HCAL-LLP-Analysis/blob/main/SURF_FinalReport2024.pdf) containing detailed accounts of my personal work and findings
