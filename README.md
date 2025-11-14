@@ -10,13 +10,14 @@ Although LLPs do possess a distinct signature in the form of the energy deposist
   <img src="https://github.com/kattx711/Run3-HCAL-LLP-Analysis/blob/main/images/promptJet.png?raw=1" width="150" height="150" />
 </p>
 
-<img src="https://github.com/kattx711/Run3-HCAL-LLP-Analysis/blob/main/images/signalslicesbigger350.png?raw=1" width="300" height="400" />
 
 ### Key Links:
  - [Interim reports](https://github.com/kattx711/Run3-HCAL-LLP-Analysis/blob/main/SURF_Interim_Report_2025.pdf) and [final research papers](https://github.com/kattx711/Run3-HCAL-LLP-Analysis/blob/main/SURF_FinalReport2024.pdf) containing detailed accounts of my personal work and findings
  - [Poster](https://github.com/kattx711/Run3-HCAL-LLP-Analysis/blob/main/APSposterUpdated.pdf) presented at the APS Global Physics Summit Conference and the [description](https://summit.aps.org/smt/2025/events/MAR-H00/318)
  - [Presentation slides](https://github.com/kattx711/Run3-HCAL-LLP-Analysis/blob/main/CMSPresentation.pptx) given at Caltech's Fall Seminar Day and also given to the Caltech High Energy Physics Research Group
  - Abstract published in Caltech's SURF [Abstract Book](https://sfp.caltech.edu/documents/29442/2024_Abstract_Book.pdf)
+
+ <img src="https://github.com/kattx711/Run3-HCAL-LLP-Analysis/blob/main/images/signalslicesbigger350.png?raw=1" width="300" height="400" />
  
  ### Source Code:
  - Link to the [main analysis repository](https://github.com/gk199/Run3-HCAL-LLP-Analysis/tree/main)
