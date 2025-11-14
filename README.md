@@ -4,6 +4,10 @@ Over my two summers (2024 and 2025) on-site at CERN in Geneva as part of Caltech
 
 Although LLPs do possess a distinct signature in the form of the energy deposists they leave behind within the Hadronic Calorimeter inside the Compact Muon Solenoid (CMS) detector, the difficulty in detecting LLPs lies in their very small theorized cross-section, making their production an extremely rare process. As a result, this analysis necessitates the [design of classifiers](https://github.com/gk199/Run3-HCAL-LLP-Analysis/tree/kat-branch/Classifiers) with a very strong background rejection power and development of precise [statistical frameworks for background estimation](https://github.com/gk199/Run3-HCAL-LLP-Analysis/tree/kat-branch/FakeRate): these two areas were the subprojects that I personally led.
 
+
+<img src="https://github.com/kattx711/Run3-HCAL-LLP-Analysis/blob/main/IMG_B4A88A106775-1.jpeg" style="width: 500px; height: 500px;">
+<img src="https://github.com/kattx711/Run3-HCAL-LLP-Analysis/blob/main/promptJet.png" style="width: 500px; height: 500px;">
+
 ### Key Links:
  - [Interim reports](https://github.com/kattx711/Run3-HCAL-LLP-Analysis/blob/main/SURF_Interim_Report_2025.pdf) and [final research papers](https://github.com/kattx711/Run3-HCAL-LLP-Analysis/blob/main/SURF_FinalReport2024.pdf) containing detailed accounts of my personal work and findings
  - [Poster](https://github.com/kattx711/Run3-HCAL-LLP-Analysis/blob/main/APSposterUpdated.pdf) presented at the APS Global Physics Summit Conference and the [description](https://summit.aps.org/smt/2025/events/MAR-H00/318)
