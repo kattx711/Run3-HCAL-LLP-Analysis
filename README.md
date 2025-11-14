@@ -17,8 +17,10 @@ Although LLPs do possess a distinct signature in the form of the energy deposist
  - [Presentation slides](https://github.com/kattx711/Run3-HCAL-LLP-Analysis/blob/main/CMSPresentation.pptx) given at Caltech's Fall Seminar Day and also given to the Caltech High Energy Physics Research Group
  - Abstract published in Caltech's SURF [Abstract Book](https://sfp.caltech.edu/documents/29442/2024_Abstract_Book.pdf)
 
+<p align="center">
  <img src="https://github.com/kattx711/Run3-HCAL-LLP-Analysis/blob/main/images/signalslicesbigger350.png?raw=1" width="300" height="400" />
- 
+ </p>
+
  ### Source Code:
  - Link to the [main analysis repository](https://github.com/gk199/Run3-HCAL-LLP-Analysis/tree/main)
  - Links to my personal contributions at [my branch](https://github.com/gk199/Run3-HCAL-LLP-Analysis/tree/kat-branch)
